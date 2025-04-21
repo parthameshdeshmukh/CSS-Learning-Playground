@@ -1,4 +1,3 @@
-
 # 🎨 CSS Learning Playground
 
 [![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
@@ -17,18 +16,15 @@
 - 🎭 **Transform & Animation** - Play with CSS transforms and animations
 
 ## 👥 Contributors
+- parthameshdeshmukh(https://github.com/parthameshdeshmukh) - Project Creator
+- Sujal Chaudhary   (https://github.com/sujalc879) - Project Creator
 
-<!-- Add your GitHub username and a link to your profile below -->
-- [@YourUsername](https://github.com/YourUsername) - Project Creator
-- [Open for contributions!]
 
 ## 🙌 Acknowledgments
 
 Special thanks to:
 - The React community
 - TailwindCSS team
-- [Your name/team member here]
-- [Space for additional acknowledgments]
 
 ## 🛠️ Tech Stack
 
