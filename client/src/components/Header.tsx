@@ -61,7 +61,7 @@ const Header = () => {
             </li>
             <li>
               <Link
-                href="/code-certifier"
+                href="https://css-code-master.onrender.com/"
                 className="px-2 py-1 bg-blue-600 rounded-2xl px-4 py-2 inline-block rounded hover:bg-primary-light"
               >
                 Code Certifier
